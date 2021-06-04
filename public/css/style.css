@@ -1,0 +1,117 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 700px;
+    margin-left: 70px;
+}
+.firstdiv{
+    display:flex;
+    align-items: center;
+    
+}
+
+
+.b1{
+    background-color: gray;
+    border-radius: 10%;
+    border: 0px;
+    height: 40px;
+    width: 40px;
+}
+.b2{
+    background-color: rgb(255, 64, 64);
+    border-radius: 10%;
+    border: 0px;
+    height: 40px;
+    width: 40px;
+}
+.b3{
+    background-color: rgb(54, 161, 54);
+    border-radius: 10%;
+    border: 0px;
+    height: 40px;
+    width: 40px;
+}
+.b4{
+    background-color: rgb(68, 68, 241);
+    border-radius: 10%;
+    border: 0px;
+    height: 40px;
+    width: 40px;
+}
+.b5{
+    height: 30px;
+    width: 40px;
+    border-radius: 5%;
+    border:3px solid black;
+}
+.b6{
+    height: 30px;
+    width: 40px;
+    border-radius: 5%;
+    border:1px dashed black;
+}
+.b7{
+    height: 30px;
+    width: 40px;
+    border-radius: 5%;
+    border:1px solid black;
+}
+.b8{
+    height: 40px;
+    width: 40px;
+    border-radius: 5%;
+    border-top:1px solid red;
+    border-left:0px;
+    border-right:0px;
+    border-bottom:0px;
+}
+.b9{
+    height: 40px;
+    width: 40px;
+    border-radius: 5%;
+    border-top:2px solid red;
+    border-left:0px;
+    border-right:0px;
+    border-bottom:0px;
+}
+.b10{
+    height: 40px;
+    width: 40px;
+    border-radius: 5%;
+    border-top:3px solid red;
+    border-left:0px;
+    border-right:0px;
+    border-bottom:0px;
+}
+.b11{
+    height: 30px;
+}
+
+
+#quantity{
+    width: 40px;
+    height: 30px;
+}
+.b13{
+    border: 4px solid black;
+}
+
+.b14{
+    border-top: 4px solid black;
+}
+.b15{
+    border-right: 4px solid black;
+}
+.b16{
+    border-bottom: 4px solid black;
+}
+.b17{
+    border-left: 4px solid black;
+}
+.divlast{
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+}
